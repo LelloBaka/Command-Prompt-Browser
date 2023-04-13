@@ -7,6 +7,7 @@
 A browser design idea similar to command prompt in windows
 
 ## Commands
+- list -> Shows all commands
 - url stringToSearch -> Makes you search on internet an url
 - cut shortcutName -> Makes you search on internet a saved shortcut
 - time -> Shows the Time in your Area
